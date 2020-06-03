@@ -14,6 +14,8 @@ public class ClearTripDemo {
 				"C:/Users/hp au-620tx/Desktop/geckodriver-v0.19.1-win64/geckodriver.exe");
 
 		WebDriver driver = new FirefoxDriver();
+		
+		//New test step added
 		/*
 		 * driver.get("https://www.cleartrip.com/");
 		 * driver.findElement(By.id("FromTag")).sendKeys("Mum");

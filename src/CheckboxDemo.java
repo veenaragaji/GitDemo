@@ -23,6 +23,8 @@ public class CheckboxDemo {
 		int c=driver.findElements(By.xpath("//input[@type='checkbox']")).size();
 		System.out.println("Checkbox count"+c);
 		
+		//New test step added
+		
 		
 		
 		
