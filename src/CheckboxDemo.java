@@ -24,6 +24,8 @@ public class CheckboxDemo {
 		System.out.println("Checkbox count"+c);
 		
 		//New test step added
+		System.out.println("This is change1 from cloned Repo");
+		System.out.println("This is change2 from cloned Repo");
 		
 		
 		
